@@ -5,18 +5,6 @@
   "wallpaper": "",
   "sites": [
     {
-      {
-  “spider”:“./lib/xs.jar”
-  "logo": "./lib/jueson.jpg",
-  「生活」：[
-    {
-      "name": "Guovin",
-      「類型」：0，
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
-    }
-  ],
-  「站點」：[
-    {
       鍵：jueson，
       "name": "🏠首頁┃豆瓣",
       「類型」：3，
