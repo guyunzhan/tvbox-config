@@ -1,0 +1,33 @@
+
+{
+  "name": "我的 TVBox 聚合配置",
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    {
+      "key": "demo_json",
+      "name": "授权测试 JSON 站",
+      "type": 1,
+      "api": "https://your-authorized-domain.example/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "demo_json_2",
+      "name": "第二个授权测试站",
+      "type": 1,
+      "api": "https://second-authorized-domain.example/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    }
+  ],
+  "parses": [],
+  "flags": [],
+  "lives": [],
+  "ijk": [],
+  "ads": []
+}

@@ -1,0 +1,14 @@
+
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>我的 TVBox 配置</title>
+</head>
+<body>
+  <h1>我的 TVBox 配置站</h1>
+  <p>配置文件：<a href="/tvbox.json">tvbox.json</a></p>
+  <p>请将 /tvbox.json 的完整 HTTPS 地址填入 TVBox。</p>
+</body>
+</html>
