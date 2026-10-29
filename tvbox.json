@@ -1,5 +1,5 @@
 {
-  "name": "我的TVBOX",
+  "name": "TVBoxOS",
   "spider": "",
   "wallpaper": "",
   "sites": [
@@ -10,7 +10,7 @@
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "bfzy",
@@ -19,7 +19,7 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "lzzy",
@@ -28,7 +28,7 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "wolong",
@@ -37,7 +37,7 @@
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "wujin",
@@ -46,7 +46,7 @@
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "tyzy",
@@ -55,7 +55,7 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "jszy",
@@ -64,7 +64,7 @@
       "api": "https://jszyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "dbzy",
@@ -73,7 +73,7 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "ryzy",
@@ -82,7 +82,7 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "hongniu",
@@ -91,7 +91,7 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "guangsu",
@@ -100,7 +100,7 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "xinlang",
@@ -109,7 +109,7 @@
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "suoni",
@@ -118,7 +118,7 @@
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "modu",
@@ -127,7 +127,7 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "360zy",
@@ -136,7 +136,7 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "uku",
@@ -145,7 +145,7 @@
       "api": "https://api.ukuapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "ikun",
@@ -154,7 +154,7 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "maotaizy",
@@ -163,7 +163,7 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "jinying",
@@ -172,16 +172,16 @@
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "feifan",
       "name": "🍀非凡采集",
       "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "kuaiche",
@@ -190,7 +190,7 @@
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "haiwaikan",
@@ -199,7 +199,7 @@
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "taopian",
@@ -208,7 +208,7 @@
       "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "yaya",
@@ -217,7 +217,7 @@
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "niuxin",
@@ -226,7 +226,7 @@
       "api": "https://api.niuxinzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "jisu",
@@ -235,7 +235,7 @@
       "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "huohuo",
@@ -244,7 +244,7 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "liujiu",
@@ -253,7 +253,7 @@
       "api": "https://www.69zyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "subozi",
@@ -262,7 +262,7 @@
       "api": "https://subocj.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "ckzy",
@@ -271,7 +271,7 @@
       "api": "https://ckzy.me/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "dmzy",
@@ -280,7 +280,7 @@
       "api": "https://caiji.dmzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "categories": [
         "国产动漫",
         "日韩动漫",
@@ -297,7 +297,7 @@
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "kuaikan",
@@ -306,7 +306,7 @@
       "api": "https://kuaikanapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "niuniudm",
@@ -315,7 +315,7 @@
       "api": "https://api.niuniudm.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "djzy",
@@ -324,7 +324,7 @@
       "api": "https://djzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "duanju",
@@ -333,7 +333,7 @@
       "api": "https://www.duanjuzy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "sdzy",
@@ -342,7 +342,7 @@
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "zzdj",
@@ -351,7 +351,7 @@
       "api": "https://zzdj.tv/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "mdzy_dj",
@@ -360,7 +360,7 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "categories": [
         "短剧",
         "网络短剧",
@@ -374,7 +374,7 @@
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "categories": [
         "国产动漫",
         "日韩动漫",
@@ -390,7 +390,7 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "categories": [
         "国产动漫",
         "日韩动漫",
@@ -405,7 +405,7 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "categories": [
         "短剧",
         "网络短剧"
@@ -418,7 +418,7 @@
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "categories": [
         "国产动漫",
         "日韩动漫",
@@ -432,7 +432,7 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "categories": [
         "短剧"
       ]
@@ -444,7 +444,7 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "categories": [
         "国产动漫",
         "日韩动漫",
