@@ -1,0 +1,12 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "默认仓库",
+      "sourceUrl": "https://raw.githubusercontent.com/mlabalabala/TVResource/main/boxCfg/ori_source.json"
+    },
+    {
+      "sourceName": "起飞仓库",
+      "sourceUrl": "https://raw.githubusercontent.com/mlabalabala/TVResource/main/boxCfg/sp_source.json"
+    }
+  ]
+}
